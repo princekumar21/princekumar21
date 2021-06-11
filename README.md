@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @princekumar21
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data structure algorithms ans Web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prince Kumar
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning data structure algorithms and Web development.
+- 📫 You can reach me through pk41330@gmail.com
 
 <!---
 princekumar21/princekumar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
