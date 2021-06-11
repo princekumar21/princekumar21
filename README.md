@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince Kumar
+- 👋 Hi, I’m **Prince Kumar**
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning data structure algorithms and Web development.
 - 📫 You can reach me through pk41330@gmail.com
