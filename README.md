@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Prince Kumar**
-- 👀 I’m interested in coding.
+- 👀 I’m interested in **Learning New Things**.
 - 🌱 I’m currently learning **Data Structure, Algorithms** and **Web Development**.
 - 📫 You can reach me through **pk41330@gmail.com**
 
